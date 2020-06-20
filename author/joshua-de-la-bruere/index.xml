@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joshua de la Bruere | Academic</title>
-    <link>/author/joshua-de-la-bruere/</link>
-      <atom:link href="/author/joshua-de-la-bruere/index.xml" rel="self" type="application/rss+xml" />
+    <link>/DPSS_Blog/author/joshua-de-la-bruere/</link>
+      <atom:link href="/DPSS_Blog/author/joshua-de-la-bruere/index.xml" rel="self" type="application/rss+xml" />
     <description>Joshua de la Bruere</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Joshua de la Bruere</copyright>
     <image>
-      <url>/author/joshua-de-la-bruere/avatar_hu357cfdbac65bd88fd1bd15b247a6855c_34896_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>/DPSS_Blog/author/joshua-de-la-bruere/avatar_hu357cfdbac65bd88fd1bd15b247a6855c_34896_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Joshua de la Bruere</title>
-      <link>/author/joshua-de-la-bruere/</link>
+      <link>/DPSS_Blog/author/joshua-de-la-bruere/</link>
     </image>
     
   </channel>
