@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Academic</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week One: Getting Online and Ice Breakers on Zoom</title>
+      <link>/post/getting-to-know_zoom/getting-to-know-zoom-and-you/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/getting-to-know_zoom/getting-to-know-zoom-and-you/</guid>
+      <description>
+
+
+&lt;p&gt;This was the first week in the University of Chicago Harris Data and Policy Summer Scholars. When I first heard about this program, I felt it was the perfect fit for me, lying at the intersection of my interest in data and political sciences. It would be in Chicago for 4 weeks in the summer where I’d work with professors and see if I wanted to further my education in this intersection.&lt;/p&gt;
+&lt;p&gt;Then in March, COVID hit and the program had to adapt. It was announced that it would move online with the option to defer my admittance to next year. I was a little apprehensive with continuing online, as online classes don’t typically fit my learning style but I decided it would be worth a shot, as the program was extended to 7 weeks which would allow me to particate while working full time.&lt;/p&gt;
+&lt;div id=&#34;more-accounts-than-you-can-shake-a-stick-at&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;More Accounts Than You Can Shake A Stick At&lt;/h3&gt;
+&lt;p&gt;Having spent a large part of my first year at PVCSD working to eliminate a system of duplicate email accounts for all users, (Teachers had both gmail and outlook accounts and used both regularly) I was suprised to see that UChicago was also exerincing this. &lt;a href=&#34;https://twitter.com/delaBJL/status/1272533399052353536&#34;&gt;I tweeted in frustration with the number of accounts I had to create&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;img/twitter.PNG&#34; alt=&#34;Twitter Exchange About Number of Accounts&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;Twitter Exchange About Number of Accounts&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;There were so many accounts and programs to get set up that the first week was primarily dedicated to making sure that this was happening. There were virtual tech help sessions for setting up the mulititudes of programs required for this course. Some of the accounts I had to set up were&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;UChicago email in Office 365&lt;/li&gt;
+&lt;li&gt;UChicago email in Google Suite&lt;/li&gt;
+&lt;li&gt;Box for sharing recordings&lt;/li&gt;
+&lt;li&gt;Canvas for course materials&lt;/li&gt;
+&lt;li&gt;Piazza for discussions&lt;/li&gt;
+&lt;li&gt;Zoom Using the Office 365 email (can’t use my personal one)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To me, I see a fair bit redundancy in these programs. The double email situation is odd to me, as we really only have the Google Suite Account for Google Drive and basically the Google Email is free with that. However, on the other side the Office 365 account is similar in function to Google Drive.&lt;/p&gt;
+&lt;p&gt;I don’t fully understand the decision to live in two systems for email and cloud collaberative documents. I’m personally more familiar with Google Drive having used it since I was in high school and at each of my previous schools and would prefer to live in that world. However, I know Office is the heart and soul of the buisness world.&lt;/p&gt;
+&lt;p&gt;Box seems pretty useful for sharing recordings with students as the program is designed to be mostly async. I would note that if we were using Google Meet that a copy of the recording is automatically sent to all involved parties, which would decrease the waiting time.&lt;/p&gt;
+&lt;p&gt;Canvas and I have a love hate relationship. I’ve used Canvas and Blackboard before and I &lt;em&gt;hate&lt;/em&gt; them both. Canvas is the worst based learning management system I’ve used, except all those other forms that have been tried from time to time. I’m less familiar with the capabilites of Google Classroom, but from what I’ve seen of the use of Canvas so far a Google Classroom would probably work just as well.&lt;/p&gt;
+&lt;p&gt;Piazza is interesting and looks a little dated. Like mid 2000s to 2014ish discussion boards. It allows for annon posting, to ask questions that a student might not feel comfortable asking in person which is a nice tool to have. It does feel dated, but I’m not sure if a great alternative exsists.&lt;/p&gt;
+&lt;p&gt;Zoom is probably the best online confrencing system I’ve used, and with PVCSD I’ve used a lot when contacting vendors. Google Hangouts seems to have lower quality video and is a little weirder when it comes to sharing content on the screen, but is probably my second favorite video confrencing app, though many features in Zoom require a plug in in Google Meets.&lt;/p&gt;
+&lt;p&gt;I think at this point it should be pretty clear that I feel that many of these programs could be accomplished with a single login to a Google Suite Account. This is of course from a student perspective, I could be missing a critical reason for using Cavas on the backend for instructors for example. It just feels like a lot of log-ins for a seven week course.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;icebreakers-over-zoom-are-still-awkward&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Icebreakers Over Zoom Are Still Awkward&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div id=&#34;virtual-living-rooms&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Virtual Living Rooms&lt;/h3&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
