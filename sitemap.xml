@@ -3,45 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/DPSS_Blog/privacy/</loc>
+    <loc>/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/DPSS_Blog/terms/</loc>
+    <loc>/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/DPSS_Blog/</loc>
+    <loc>/authors/</loc>
   </url>
   
   <url>
-    <loc>/DPSS_Blog/authors/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>/DPSS_Blog/categories/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>/DPSS_Blog/author/joshua-de-la-bruere/</loc>
+    <loc>/author/joshua-de-la-bruere/</loc>
   </url>
   
   <url>
-    <loc>/DPSS_Blog/post/</loc>
+    <loc>/post/</loc>
   </url>
   
   <url>
-    <loc>/DPSS_Blog/publication_types/</loc>
+    <loc>/publication_types/</loc>
   </url>
   
   <url>
-    <loc>/DPSS_Blog/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
   <url>
-    <loc>/DPSS_Blog/post/getting-to-know_zoom/getting-to-know-zoom-and-you/</loc>
+    <loc>/post/getting-to-know_zoom/getting-to-know-zoom-and-you/</loc>
   </url>
   
 </urlset>
