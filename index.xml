@@ -92,5 +92,37 @@
 </description>
     </item>
     
+    <item>
+      <title>Meeting R and statistics</title>
+      <link>/post/meeting-r-and-statistics/meeting-r-and-statistics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/meeting-r-and-statistics/meeting-r-and-statistics/</guid>
+      <description>
+
+
+&lt;p&gt;Week 2 has come and gone for DPSS online. This week we moved beyond chorot forming and on to the main topics of the course. It still feels weird to be doing this online, but I’m glad that the program is still happening. The core topics for this course are quatitiative analysis (with R!) and public policy.&lt;/p&gt;
+&lt;div id=&#34;synch-up&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Synch-Up!&lt;/h3&gt;
+&lt;p&gt;This week there were three synchronous sessions for us to attend; two on public policy and one on the capstone project. I’ll discuss the latter under it’s own heading further along. The main premise of these policy driven presentation is that an expert (so far I believe it’s been professors) share their experience working on and with public policy.&lt;/p&gt;
+&lt;p&gt;The first session was led by &lt;a href=&#34;https://www.fionaburlig.com/&#34;&gt;Fiona Burlig&lt;/a&gt; an Assistant Professor at Harris, who works primarily from an economist’s perspective working with environmental and energy policy. I thought this was particulary interesting as this is very similar to the sort of perspective I’d likely be coming to public policy from if I migrate from statistics, as my graduate program is based in the ecomomics department at WIU.&lt;/p&gt;
+&lt;p&gt;The primary material for Dr. Burlig’s policy in action session was explaining the work done in what I believe is her paper &lt;a href=&#34;https://haas.berkeley.edu/wp-content/uploads/WP268.pdf&#34;&gt;Out of the Darkness and Into the Light? Development Effects of Rural Electrification&lt;/a&gt;. This paper exaimed how effective it’s been investing in electricity in rural India. They did this using a data from satilite imagery to detect light levels as well as it’s impact on the local economy (like how many men work in agreculture). One of the primary techniques used was regression discontinuity. It turned out that the impact of this economic investment was quite low, and based on those metrics and measurable economic data it seems like the cost doesn’t provide much benifit. Many residents reported very little change in their overall life. However, when interviewed the residents were very favorable to the electricity and wouldn’t want to give it up.&lt;/p&gt;
+&lt;p&gt;This lead Dr. Burlig to talk about the role of a policy adviser. They’re not there to tell the government what to do, but rather to set the government leaders up for making evidence driven policy. They provide their analysis of the situation and make reccomendations like, “this policy doesn’t seem to have large economic impact”, but the political leaders are the ones that have to make the final decision based on their constituents needs.&lt;/p&gt;
+&lt;p&gt;The next speaker in the polict in action series was Paula Worthington, who spoke about the process of cost benifit analysis. This was a fairly interesting talk, but unfortunatly, I wasn’t able to attend during the live session, so I only listened to the reccording while on a walk. I think I’ll have to go back and review this session as this is a facinating part of the policy making decsion process.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;person-to-person&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Person to Person&lt;/h3&gt;
+&lt;p&gt;As this program was designed around building person to person connections and building strength as a cohort and given how this is difficult to do with a mostly asynchronous program, DPSS is utalizing &lt;a href=&#34;https://www.donut.com/&#34;&gt;donut&lt;/a&gt; in slack to help us form connections.&lt;/p&gt;
+&lt;p&gt;This week I was paired with a fellow classmate: Lakshimi, who is currently in India, which meant we’re essentially on opposite schedules. I don’t want to give too much information about her here, but she and I are both approaching this program from a quantitiave background, and both are very interested in psephology, or as I prefer to call it the study electoral systems. If I didn’t know better, I’d assume that someone had paired us as we have a lot of similar background, but neither of us had shared that sort of information with the staff of the program.&lt;/p&gt;
+&lt;p&gt;I thought donut was a pretty good experience and we had a lot of good discussion throughout the week, which seems like it achieved the goal of the program for building connections despite the asynchronous format of this program. Here’s hoping that next week’s connection is also quality!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;learning-about-r&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Learning About R&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div id=&#34;capstone-projects&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Capstone Projects&lt;/h3&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
